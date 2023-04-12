@@ -248,7 +248,9 @@ namespace TrainSim_RailDriverdll_Sample
             RefreshVals();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
-
+        }
     }
 }
